@@ -2,8 +2,7 @@
 
 A warm Neovim colorscheme built around the color of salmon. Neutral dark backgrounds keep the palette out of the way while salmon (#FF885D) carries functions, UI accents, and search highlights. Variables and properties render in italic — pair with a cursive italic font for the full effect.
 
-<img width="2640" height="2160" alt="2026-05-29T12:41:49,908796108-04:00" src="https://github.com/user-attachments/assets/bae1612c-997c-48d4-b913-5f545a6f9160" />
-
+<img width="2718" height="2122" alt="2026-05-29T12:44:27,475151004-04:00" src="https://github.com/user-attachments/assets/5816a3e7-3030-4bbe-8380-25f868211eba" />
 
 ## Variants
 
