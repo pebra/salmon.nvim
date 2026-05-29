@@ -1,4 +1,4 @@
-# lachs.nvim
+# salmon.nvim
 
 A warm Neovim colorscheme built around the color of salmon. Neutral dark backgrounds keep the palette out of the way while salmon (#FF885D) carries functions, UI accents, and search highlights. Variables and properties render in italic — pair with a cursive italic font for the full effect.
 
